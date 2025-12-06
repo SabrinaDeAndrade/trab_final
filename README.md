@@ -1,14 +1,8 @@
-# Projeto da Equipe TAG2
+# Projeto final
 
 ## Integrantes
 - **SABRINA DE ANDRADE DOS SANTOS**
 - **YAGHO CERUTTI**
-
----
-
-## 📌 Sobre o Projeto
-Este projeto consiste em uma aplicação web que implementa uma loja virtual simples, seguindo os requisitos solicitados na disciplina.  
-A aplicação foi desenvolvida utilizando **HTML, CSS, JavaScript puro**, com **Node.js opcional** para servir os dados via API (sem banco de dados, utilizando arquivos JSON).
 
 ---
 
